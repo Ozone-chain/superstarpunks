@@ -1,6 +1,6 @@
 # SuperstarPunks - Discover a World of Iconic Legends as Digital Collectibles
 
-![SuperStarPunks Logo](/logo.png)
+![SuperStarPunks Logo](/logodark.png)
 
 Welcome to the SuperStarPunks NFT Collection repository, where the world of iconic legends comes alive as digital collectibles on the Ozone Chain platform. Immerse yourself in a universe where your favorite stars become rare and valuable NFTs.
 

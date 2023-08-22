@@ -8,6 +8,8 @@ Welcome to the SuperStarPunks NFT Collection repository, where the world of icon
 
 - [The Story](#the-story)
 - [Utilities](#utilities)
+- [Contract Address](#contract-address)
+- [Audit Report](#audit-report)
 - [Features](#features)
 - [Exceptional Traits](#exceptional-traits)
 - [Strategic Partnerships](#strategic-partnerships)
@@ -25,6 +27,16 @@ SuperStarPunks is an exciting NFT project on the Ozone Chain platform that bridg
 - Eligibility for BabyOZO Airdrop
 - Free upgrade to limited edition of Super-Duper Punks
 - Get free merchandise (T-shirts & Accessories)
+
+## Contract Address
+
+The contract address of SuperStar Punks  is: [0x2a7C7e8971fcfDb47dDa460cF65291D8A329dfFc](https://ozonescan.io/address/0x2a7C7e8971fcfDb47dDa460cF65291D8A329dfFc)
+
+Explore the contract on OzoneScan: [https://ozonescan.io/address/0x2a7C7e8971fcfDb47dDa460cF65291D8A329dfFc](https://ozonescan.io/address/0x2a7C7e8971fcfDb47dDa460cF65291D8A329dfFc)
+
+## Audit Report
+
+For security and transparency, we have conducted an audit of the BabyOZO contract. You can review the audit report by ThirdWeb: [https://ipfs.io/ipfs/QmNgNaLwzgMxcx9r6qDvJmTFam6xxUxX7Vp8E99oRt7i74/](https://ipfs.io/ipfs/QmNgNaLwzgMxcx9r6qDvJmTFam6xxUxX7Vp8E99oRt7i74/)
 
 ## Features
 
